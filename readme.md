@@ -24,7 +24,7 @@ The generic search algorithms use depth-first branch-and-bound traversal with di
 | ANN | NN with approximation pruning. | [1, 4] |
 | AkNN | kNN with approximation pruning. | [1, 4] |
 | Greedy ANN | Largest-radius-first search. | [3] |
-| Greedy AkNN | Extension of Greedy ANN in a bounded candidate max-heap. | Adapted from [3, 4] |
+| Greedy AkNN | Extension of Greedy ANN in a bounded candidate max-heap. | Parts from [3, 4] |
 
 Greedy AkNN is a simplified in one-heap rather than a direct implementation of the algorithm in Section 7 of [3].
 
