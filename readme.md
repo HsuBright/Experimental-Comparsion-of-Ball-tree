@@ -37,7 +37,7 @@ Experiments use uniform, clustered datasets to campare construction time, query 
 
 ## AI Disclosure
 
-The author used ChatGPT (Plus) to varying degrees throughout the development of this project. The Median Split and Farthest Pivot constructions, as well as the NN and kNN algorithms, were implemented independently without AI assistance. ChatGPT was consulted during the implementation and refinement of TopDown, Greedy Tree, ANN, AkNN, and the Greedy Tree-specific search strategies.
+The author used ChatGPT 6.0 to varying degrees throughout the development of this project. The Median Split and Farthest Pivot constructions, as well as the NN and kNN algorithms, were implemented independently without AI assistance. ChatGPT was consulted during the implementation and refinement of TopDown, Greedy Tree, ANN, AkNN, and the Greedy Tree-specific search strategies.
 
 The C++ benchmark and Python experiments were developed with substantial AI assistance. (Sorry, I have no idea about how to write the code) ChatGPT was also used for debugging.
 
